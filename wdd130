@@ -1,0 +1,52 @@
+!DOCTYPE html
+<html lang="en-Us">
+    <header>
+        <h1>Welcome to my WDD130 Home Page!</h1>
+    </header>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JinnahL - WDD130</title>
+
+    <main>
+        <img src="c:\Users\freet\Downloads\271886390_3131758217099675_2492972987077879182_n.jpg" alt="Saffa Jinnah" width="200">
+    </main>
+     ">Project 1</a></li>
+        <li><a href="
+</head>
+<nav>
+    <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#projects">Projects</a></li>
+    </ul>
+</nav>
+
+<section id="about">
+    <h2>About Me</h2>
+    <p>my name is Saffa Jinnah Lansana, am from Freetown Sierra Leone West-Africa. and I am currenctly enrolled at BYU-IDAHO doing software development.</p>
+</section>
+
+<section id="skills">
+    <h2>Skills</h2>
+    <ul>
+        <li>office 365 package</li>
+        <li>hardware techincian</li>
+        <li>introduction to programming</li>
+    </ul>
+</section>
+<section id="projects">
+    <h2>Projects</h2>
+    <ul>
+        <li><a href="https://github.com/099655108/wdd130  ">Project 2</a></li>
+        <li><a href="https://github.com/099655108/wdd130 ">Project 3</a></li>
+    </ul>
+</section>
+<footer>
+    <p>Copyright © 2024 https://github.com/099655108/wdd130 ">Project 2</a></li>
+        <li><a href="https://github.com/099655108/wdd130 ">Project 3</a></li> </p>
+</footer>
+<body>
+    <!-- Your content goes here -->
+</body>
+</html>
